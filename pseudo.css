@@ -13,3 +13,7 @@ h1:hover{
     font-weight: 700;
     background-color: rosybrown;
 }
+a:visited{
+   color: whitesmoke;
+
+}
