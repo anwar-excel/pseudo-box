@@ -1,7 +1,24 @@
 h1{
     background-color: aquamarine;
+   border: 20px solid royalblue;
 }
 
 span{
     background-color: blueviolet;
+    display: inline-block;
+    height:200px;
+    width: 200px;
+}
+div{
+    background-color: lightcoral;
+    height:200px;
+    width: 200px;
+    padding-top: 34px;
+    margin-top:30px;
+}
+h2{
+    background-color: blue;
+}
+p{
+        background-color: royalblue;
 }
