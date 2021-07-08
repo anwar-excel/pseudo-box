@@ -17,3 +17,18 @@ a:visited{
    color: whitesmoke;
 
 }
+li:first-child{
+    background-color: tomato;
+}
+li:nth-child(n){
+    color: greenyellow;
+}
+li:nth-last-child(2n+1){
+    color: aqua;
+}
+h3::after{
+    content: 'kamla';
+}
+h3:before{
+    content: 'manus'
+}
