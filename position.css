@@ -1,11 +1,23 @@
-.swimming div{
+.swimming{
     border: 5px solid red;
     width: 200px;
+   
 
 }
 
 #ring{
     position: sticky;
-    left: 30px;
-    top: -40px;
+   
+    top: 0px;
 }
+.dummy{
+    height: 125px;
+    width: 250px;
+    background-color: pink;
+}
+
+div.sticky {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
