@@ -5,7 +5,7 @@
 }
 
 #ring{
-    position: relative;
+    position: sticky;
     left: 30px;
     top: -40px;
 }
